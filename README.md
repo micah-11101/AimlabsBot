@@ -1,8 +1,10 @@
 # AimlabsBot
 A basic python script that uses yolov4 and opencv to find the targets on screen and shoot them.
+## Demo
 <a href="https://www.youtube.com/watch?v=eR5q9Yutr0E">
   <img src="https://img.youtube.com/vi/eR5q9Yutr0E/0.jpg" alt="Video Title" width="640" height="360">
 </a>
+
 # Refrences
 ## The tutorial I watched to create this script
 <a href="https://www.youtube.com/watch?v=vSi8sU3wJQ0">
